@@ -23,5 +23,3 @@ My name is Matias Sancassani, I am 26 years old and I dedicate myself to creatin
 <a href="https://instagram.com/sanca.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="matiassancassani@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="40" /></a>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matisancassani&label=Profile%20views&color=0e75b6&style=flat" alt="matisancassani" /> </p>
